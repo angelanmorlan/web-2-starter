@@ -1,0 +1,6 @@
+h1 span:nth-child(even){
+    color:limegreen;
+}
+span.word5{
+    color:purple;
+}
